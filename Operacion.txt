@@ -1,4 +1,0 @@
-Suma
-Resta
-Multiplicacion
-Division
